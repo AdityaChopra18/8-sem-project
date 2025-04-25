@@ -14,15 +14,17 @@ Dynamically control traffic signals to prioritize emergency vehicles and manage 
 
 📁 Project Structure
 smart_traffic_system/
-├── main.py
-├── emergency_vehicle_detection.py
-├── incident_detection.py
-├── traffic_signal_controller.py
-├── simulator.py
-├── utils.py
-├── road.mp4
-├── road2.mp4
-└── road3.mp4
+├── main.py                      # Entry point integrating all modules
+├── emergency_vehicle_detection.py  # Detects emergency vehicles in video
+├── incident_detection.py       # Identifies traffic incidents
+├── traffic_signal_controller.py    # Manages traffic signal logic
+├── simulator.py                # Simulates traffic environments
+├── utils.py                    # Utility functions
+├── road.mp4                    # Sample video for testing
+├── road2.mp4                   # Additional sample video
+└── road3.mp4                   # Another sample video
+
+
 File Descriptions
 main.py: The entry point of the application that integrates all modules.
 
