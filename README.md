@@ -13,9 +13,6 @@ Identify traffic incidents such as accidents or congestion
 Dynamically control traffic signals to prioritize emergency vehicles and manage incidents effectively​
 
 📁 Project Structure
-css
-Copy
-Edit
 smart_traffic_system/
 ├── main.py
 ├── emergency_vehicle_detection.py
