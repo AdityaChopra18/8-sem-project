@@ -63,12 +63,13 @@ pip install -r requirements.txt
 python main.py
 ```
 
+2. **Testing with sample videos:**
+   The application uses the provided `road.mp4`, `road2.mp4`, and `road3.mp4` files to simulate real-world scenarios.
+
+
 ```bash
 python main.py --mode demo --video road3.mp4 --duration 30 --report
 ```
-
-2. **Testing with sample videos:**
-   The application uses the provided `road.mp4`, `road2.mp4`, and `road3.mp4` files to simulate real-world scenarios.
 
 ## 📚 Features
 
