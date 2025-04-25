@@ -55,8 +55,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-*Note: Ensure that `requirements.txt` is present with all necessary dependencies listed.*
-
 ## ▶️ Usage
 
 1. **Run the main application:**
