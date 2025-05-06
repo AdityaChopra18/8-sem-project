@@ -1,0 +1,17 @@
+=== AI Traffic Management Demo Report ===
+Duration: 60.1 seconds
+Video processed: road3.mp4
+
+Emergency Vehicles Detected: 2
+  1. fire_truck (Confidence: 0.97)
+  2. ambulance (Confidence: 0.86)
+
+Incidents Detected: 8
+  1. roadblock (Severity: MEDIUM)
+  2. flooding (Severity: MEDIUM)
+  3. fallen_tree (Severity: MEDIUM)
+  4. construction (Severity: LOW)
+  5. fallen_tree (Severity: LOW)
+  6. fallen_tree (Severity: LOW)
+  7. construction (Severity: LOW)
+  8. roadblock (Severity: MEDIUM)

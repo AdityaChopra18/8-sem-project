@@ -1,0 +1,11 @@
+=== AI Traffic Management Demo Report ===
+Duration: 20.2 seconds
+Video processed: road2.mp4
+
+Emergency Vehicles Detected: 0
+
+Incidents Detected: 4
+  1. fallen_tree (Severity: LOW)
+  2. roadblock (Severity: MEDIUM)
+  3. construction (Severity: LOW)
+  4. accident (Severity: MEDIUM)

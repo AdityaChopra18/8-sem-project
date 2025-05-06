@@ -1,0 +1,10 @@
+=== AI Traffic Management Demo Report ===
+Duration: 7.5 seconds
+Video processed: road2.mp4
+
+Emergency Vehicles Detected: 1
+  1. police_car (Confidence: 0.92)
+
+Incidents Detected: 2
+  1. construction (Severity: LOW)
+  2. roadblock (Severity: MEDIUM)
