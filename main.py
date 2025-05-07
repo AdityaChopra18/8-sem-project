@@ -1,4 +1,6 @@
 # main.py
+# command to run the video demo "python main.py --mode demo --video road3.mp4 --duration 30 --report"
+# simulation can be run by "python simulation.py"
 import argparse
 import cv2
 import time
