@@ -1,0 +1,10 @@
+=== AI Traffic Management Demo Report ===
+Duration: 30.1 seconds
+Video processed: road3.mp4
+
+Emergency Vehicles Detected: 1
+  1. fire_truck (Confidence: 0.86)
+
+Incidents Detected: 2
+  1. flooding (Severity: MEDIUM)
+  2. flooding (Severity: MEDIUM)

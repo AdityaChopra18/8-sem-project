@@ -53,10 +53,10 @@ pip install -r requirements.txt
 1. **Run the main application:**
 
 ```bash
-python main.py
+python simulator.py
 ```
 
-2. **Testing with sample videos:**
+3. **Run with sample videos:**
    The application uses the provided `road.mp4`, `road2.mp4`, and `road3.mp4` files to simulate real-world scenarios.
 
 
